@@ -1,0 +1,16 @@
+.list {
+  list-style-type: none;
+}
+.item {
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.movieLink {
+  text-decoration: none;
+  color: #191d1e;
+
+  &:hover {
+    color: tomato;
+  }
+}
